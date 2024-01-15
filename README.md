@@ -46,7 +46,19 @@ Du kan åpne inventaret ditt ved å trykke på **E**. Her kan du se alle materia
 
 ## 🟩 Skaffe materialer
 
+Når du kommer inn i minecraft verdenen, er det første vi må gjøre å skaffe materialer.
+
+Gå bort til det nærmeste treet, og slå det ved å holde venstre klikk i mens du ser på det. Slå til blokken blir ødelagt og plukk opp blokken som dropper.
+
+Gjør dette til du har 4 tre blokker.
+
 
 ## 🛠️ Håndverk
+
+Åpne inventaret ved å trykke E. Øverst til høyre vil det være et felt med fire firkanter. Plasser blokkene du fikk i en av rutene, og og dra det som det som kommer i den individuelle ruten til høyre inn i inventaret ditt.
+
+Du vil nå ha planker. Trykk på plankene ha musepekeren over de fire rutene, og høyre klikk en gang på hver rute, det skal se slik ut:
+
+Flytt det som kommer ut til raden med ruter på bunnen av inventaret. Dette er en arbeidsbenk. Gå ut av inventaret ved å trykke Esc. Bruk rullehjulet til arbeidsbenken er å hånden din. Plasser den på bakken med høyre klikk.
 
 ## 👷‍♂️ Bygging
