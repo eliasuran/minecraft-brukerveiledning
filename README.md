@@ -7,6 +7,7 @@
 <h3 align="center">
   
   [Introduksjon](#-introduksjon) |
+  [Lage værden](#%EF%B8%8F-tastaturoppsett) |
   [Tastaturoppsettet](#%EF%B8%8F-tastaturoppsett) |
   [Skaffe materialer](#-skaffe-materialer) |
   [Håndverk](#%EF%B8%8F-h%C3%A5ndverk)
@@ -40,6 +41,8 @@ Du kan åpne inventaret ditt ved å trykke på **E**. Her kan du se alle materia
 **Venstre-klikk** bruker du får å slå med hva enn du holder i hånda. Du kan bytte hva du vil holde i hånda med baren på bunnen.
 
 **Høyre-klikk** samhandler med hva enn du ser på om du er nærme nok.
+
+## ⌨️ Lage verden
 
 
 ## 🟩 Skaffe materialer
