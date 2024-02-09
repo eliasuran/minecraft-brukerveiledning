@@ -44,6 +44,10 @@ Du kan åpne inventaret ditt ved å trykke på **E**. Her kan du se alle materia
 
 ## ⌨️ Lage verden
 
+Trykk på Single Player fra menyen som kommer opp når du starter.
+
+Velg Create New World
+
 Velg det samme som jeg har gjort her, og trykk Create New World
 ![image](https://github.com/eliasuran/minecraft-brukerveiledning/assets/118540201/65c81d51-0a76-4e58-82be-d9a2d9ba9503)
 
