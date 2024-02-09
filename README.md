@@ -118,7 +118,7 @@ Du kan gjøre dette på enten jord eller gress-blokker
 </div>
 
 
-Gjør dette til du har xx jord blokker.
+Gjør dette til du har 30 jord blokker.
 
 ## 👷‍♂️ Bygging
 
@@ -167,3 +167,5 @@ Plasser tilbake blokkene du ødela for å lage en dør.
 
 
 Du vil nå ha et hus og vil kunne overleve natta!!!
+
+I denne brukerveiledningen har du lært hvordan du skaffer materialer og hvordan du kan bruke materialene til å lage ting og bygge hus. :)
