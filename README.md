@@ -11,7 +11,7 @@
   [Lage verden](#-lage-verden) |
   [Skaffe materialer](#-skaffe-materialer) |
   [Håndverk](#%EF%B8%8F-h%C3%A5ndverk) |
-  [Bygging](%EF%B8%8F-bygging)
+  [Bygging](#%EF%B8%8F-bygging)
   
 </h3>
 
